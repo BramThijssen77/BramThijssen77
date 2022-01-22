@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BramThijssen77
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning oo, structured text and c#
-- 💞️ I’m looking to collaborate on don't know yet
+- 💞️ I’m looking to collaborate on not much yet
 - 📫 How to reach me bramthijssen77@gmail.com
 
 <!---
